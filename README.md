@@ -6,7 +6,7 @@ This repository is dedicated to the development of a personalized biomedical kno
 
 The project combines advanced data preprocessing, integration of diverse biomedical datasets, and application of LLMs to predict drug repurposing opportunities. This approach aims to accelerate the discovery of drug repositioning and support personalized medicine.
 
-![Overview Figure](figures/overview_figure.png)
+![Overview Figure](figures/scDGPD.png)
 
 ## Repository Structure
 
