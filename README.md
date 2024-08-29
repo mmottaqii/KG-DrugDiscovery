@@ -14,7 +14,7 @@ The project combines advanced data preprocessing, integration of diverse biomedi
   - `kg_preprocessing.ipynb`: Handles the integration and cleaning of drug data.
   - `preprocessing_KG_python.ipynb`: Processes gene expression data and prepares it for integration into the knowledge graph.
 - `figures/`: Directory for images and figures used in documentation.
-- `assets/`: Includes essential resources and metadata for the knowledge graph construction.
+- `assets/`: 
 
 ## Getting Started
 
