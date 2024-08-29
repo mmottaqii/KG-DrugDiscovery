@@ -46,7 +46,7 @@ This project is open-sourced under the MIT License.
 
 ## Contact
 
-For queries or collaborations, please reach out via [sadeq.mottaqi@gmail.com].
+For queries or collaborations, please reach out via [email](sadeq.mottaqi@gmail.com).
 
 ## Acknowledgments
 
